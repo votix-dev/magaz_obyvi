@@ -1,1 +1,4 @@
-# magaz_obyvi
+magaz_obyvi 
+
+Лукаш Сергей
+
